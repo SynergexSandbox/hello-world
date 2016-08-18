@@ -1,3 +1,6 @@
 [submodule "helloWorldAgain"]
 	path = submods/helloWorldAgain
 	url = git://github.com/thepandaclause/helloWorldAgain
+[submodule "submods/awholenewworld"]
+	path = submods/awholenewworld
+	url = git://github.com/thepandaclause/awholenewworld.git
