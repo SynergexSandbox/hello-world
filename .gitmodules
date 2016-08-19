@@ -4,3 +4,6 @@
 [submodule "submods/awholenewworld"]
 	path = submods/awholenewworld
 	url = git://github.com/thepandaclause/awholenewworld.git
+[submodule "submods/moarsubmods"]
+	path = submods/moarsubmods
+	url = git://github.com/thepandaclause/moarsubmods.git
