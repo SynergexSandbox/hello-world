@@ -7,3 +7,27 @@
 [submodule "submods/moarsubmods"]
 	path = submods/moarsubmods
 	url = git://github.com/thepandaclause/moarsubmods.git
+[submodule "submods/goingfor11"]
+	path = submods/goingfor11
+	url = git://github.com/thepandaclause/goingfor11.git
+[submodule "submods/yetanother"]
+	path = submods/yetanother
+	url = git://github.com/thepandaclause/yetanother.git
+[submodule "submods/thatdactuallybe12total"]
+	path = submods/thatdactuallybe12total
+	url = git://github.com/thepandaclause/thatdactuallybe12total.git
+[submodule "submods/stillneedmore"]
+	path = submods/stillneedmore
+	url = git://github.com/thepandaclause/stillneedmore.git
+[submodule "submods/fourmoretogo"]
+	path = submods/fourmoretogo
+	url = git://github.com/thepandaclause/fourmoretogo.git
+[submodule "submods/almosthaveenough"]
+	path = submods/almosthaveenough
+	url = git://github.com/thepandaclause/almosthaveenough.git
+[submodule "submods/gettingthere"]
+	path = submods/gettingthere
+	url = git://github.com/thepandaclause/gettingthere.git
+[submodule "submods/downtoone"]
+	path = submods/downtoone
+	url = git://github.com/thepandaclause/downtoone.git
