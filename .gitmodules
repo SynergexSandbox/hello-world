@@ -19,9 +19,6 @@
 [submodule "submods/stillneedmore"]
 	path = submods/stillneedmore
 	url = git://github.com/thepandaclause/stillneedmore.git
-[submodule "submods/fourmoretogo"]
-	path = submods/fourmoretogo
-	url = git://github.com/thepandaclause/fourmoretogo.git
 [submodule "submods/almosthaveenough"]
 	path = submods/almosthaveenough
 	url = git://github.com/thepandaclause/almosthaveenough.git
