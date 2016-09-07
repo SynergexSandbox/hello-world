@@ -145,3 +145,6 @@
 [submodule "submods/51"]
 	path = submods/51
 	url = git://github.com/thepandaclause/51.git
+[submodule "submods/downtoone"]
+	path = submods/downtoone
+	url = git@thepandaclause:downtoone
