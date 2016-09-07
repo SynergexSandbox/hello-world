@@ -25,9 +25,6 @@
 [submodule "submods/gettingthere"]
 	path = submods/gettingthere
 	url = git://github.com/thepandaclause/gettingthere.git
-[submodule "submods/downtoone"]
-	path = submods/downtoone
-	url = git://github.com/thepandaclause/downtoone.git
 [submodule "submods/12"]
 	path = submods/12
 	url = git://github.com/thepandaclause/12.git
