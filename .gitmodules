@@ -27,7 +27,7 @@
 	url = git://github.com/thepandaclause/gettingthere.git
 [submodule "submods/12"]
 	path = submods/12
-	url = git://github.com/thepandaclause/12.git
+	url = git://github.com/SynergexSandbox/12.git
 [submodule "submods/13"]
 	path = submods/13
 	url = git://github.com/thepandaclause/13.git
