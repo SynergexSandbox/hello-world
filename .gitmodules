@@ -1,147 +1,147 @@
 [submodule "helloWorldAgain"]
 	path = submods/helloWorldAgain
-	url = git://github.com/thepandaclause/helloWorldAgain
+	url = git://github.com/SynergexSandbox/helloWorldAgain
 [submodule "submods/awholenewworld"]
 	path = submods/awholenewworld
-	url = git://github.com/thepandaclause/awholenewworld.git
+	url = git://github.com/SynergexSandbox/awholenewworld.git
 [submodule "submods/moarsubmods"]
 	path = submods/moarsubmods
-	url = git://github.com/thepandaclause/moarsubmods.git
+	url = git://github.com/SynergexSandbox/moarsubmods.git
 [submodule "submods/goingfor11"]
 	path = submods/goingfor11
-	url = git://github.com/thepandaclause/goingfor11.git
+	url = git://github.com/SynergexSandbox/goingfor11.git
 [submodule "submods/yetanother"]
 	path = submods/yetanother
-	url = git://github.com/thepandaclause/yetanother.git
+	url = git://github.com/SynergexSandbox/yetanother.git
 [submodule "submods/thatdactuallybe12total"]
 	path = submods/thatdactuallybe12total
-	url = git://github.com/thepandaclause/thatdactuallybe12total.git
+	url = git://github.com/SynergexSandbox/thatdactuallybe12total.git
 [submodule "submods/stillneedmore"]
 	path = submods/stillneedmore
-	url = git://github.com/thepandaclause/stillneedmore.git
+	url = git://github.com/SynergexSandbox/stillneedmore.git
 [submodule "submods/almosthaveenough"]
 	path = submods/almosthaveenough
-	url = git://github.com/thepandaclause/almosthaveenough.git
+	url = git://github.com/SynergexSandbox/almosthaveenough.git
 [submodule "submods/gettingthere"]
 	path = submods/gettingthere
-	url = git://github.com/thepandaclause/gettingthere.git
+	url = git://github.com/SynergexSandbox/gettingthere.git
 [submodule "submods/12"]
 	path = submods/12
 	url = git://github.com/SynergexSandbox/12.git
 [submodule "submods/13"]
 	path = submods/13
-	url = git://github.com/thepandaclause/13.git
+	url = git://github.com/SynergexSandbox/13.git
 [submodule "submods/14"]
 	path = submods/14
-	url = git://github.com/thepandaclause/14.git
+	url = git://github.com/SynergexSandbox/14.git
 [submodule "submods/15"]
 	path = submods/15
-	url = git://github.com/thepandaclause/15.git
+	url = git://github.com/SynergexSandbox/15.git
 [submodule "submods/16"]
 	path = submods/16
-	url = git://github.com/thepandaclause/16.git
+	url = git://github.com/SynergexSandbox/16.git
 [submodule "submods/17"]
 	path = submods/17
-	url = git://github.com/thepandaclause/17.git
+	url = git://github.com/SynergexSandbox/17.git
 [submodule "submods/18"]
 	path = submods/18
-	url = git://github.com/thepandaclause/18.git
+	url = git://github.com/SynergexSandbox/18.git
 [submodule "submods/19"]
 	path = submods/19
-	url = git://github.com/thepandaclause/19.git
+	url = git://github.com/SynergexSandbox/19.git
 [submodule "submods/20"]
 	path = submods/20
-	url = git://github.com/thepandaclause/20.git
+	url = git://github.com/SynergexSandbox/20.git
 [submodule "submods/21"]
 	path = submods/21
-	url = git://github.com/thepandaclause/21.git
+	url = git://github.com/SynergexSandbox/21.git
 [submodule "submods/22"]
 	path = submods/22
-	url = git://github.com/thepandaclause/22.git
+	url = git://github.com/SynergexSandbox/22.git
 [submodule "submods/23"]
 	path = submods/23
-	url = git://github.com/thepandaclause/23.git
+	url = git://github.com/SynergexSandbox/23.git
 [submodule "submods/24"]
 	path = submods/24
-	url = git://github.com/thepandaclause/24.git
+	url = git://github.com/SynergexSandbox/24.git
 [submodule "submods/25"]
 	path = submods/25
-	url = git://github.com/thepandaclause/25.git
+	url = git://github.com/SynergexSandbox/25.git
 [submodule "submods/26"]
 	path = submods/26
-	url = git://github.com/thepandaclause/26.git
+	url = git://github.com/SynergexSandbox/26.git
 [submodule "submods/27"]
 	path = submods/27
-	url = git://github.com/thepandaclause/27.git
+	url = git://github.com/SynergexSandbox/27.git
 [submodule "submods/28"]
 	path = submods/28
-	url = git://github.com/thepandaclause/28.git
+	url = git://github.com/SynergexSandbox/28.git
 [submodule "submods/29"]
 	path = submods/29
-	url = git://github.com/thepandaclause/29.git
+	url = git://github.com/SynergexSandbox/29.git
 [submodule "submods/30"]
 	path = submods/30
-	url = git://github.com/thepandaclause/30.git
+	url = git://github.com/SynergexSandbox/30.git
 [submodule "submods/31"]
 	path = submods/31
-	url = git://github.com/thepandaclause/31.git
+	url = git://github.com/SynergexSandbox/31.git
 [submodule "submods/32"]
 	path = submods/32
-	url = git://github.com/thepandaclause/32.git
+	url = git://github.com/SynergexSandbox/32.git
 [submodule "submods/33"]
 	path = submods/33
-	url = git://github.com/thepandaclause/33.git
+	url = git://github.com/SynergexSandbox/33.git
 [submodule "submods/34"]
 	path = submods/34
-	url = git://github.com/thepandaclause/34.git
+	url = git://github.com/SynergexSandbox/34.git
 [submodule "submods/35"]
 	path = submods/35
-	url = git://github.com/thepandaclause/35.git
+	url = git://github.com/SynergexSandbox/35.git
 [submodule "submods/36"]
 	path = submods/36
-	url = git://github.com/thepandaclause/36.git
+	url = git://github.com/SynergexSandbox/36.git
 [submodule "submods/37"]
 	path = submods/37
-	url = git://github.com/thepandaclause/37.git
+	url = git://github.com/SynergexSandbox/37.git
 [submodule "submods/38"]
 	path = submods/38
-	url = git://github.com/thepandaclause/38.git
+	url = git://github.com/SynergexSandbox/38.git
 [submodule "submods/39"]
 	path = submods/39
-	url = git://github.com/thepandaclause/39.git
+	url = git://github.com/SynergexSandbox/39.git
 [submodule "submods/40"]
 	path = submods/40
-	url = git://github.com/thepandaclause/40.git
+	url = git://github.com/SynergexSandbox/40.git
 [submodule "submods/41"]
 	path = submods/41
-	url = git://github.com/thepandaclause/41.git
+	url = git://github.com/SynergexSandbox/41.git
 [submodule "submods/42"]
 	path = submods/42
-	url = git://github.com/thepandaclause/42.git
+	url = git://github.com/SynergexSandbox/42.git
 [submodule "submods/43"]
 	path = submods/43
-	url = git://github.com/thepandaclause/43.git
+	url = git://github.com/SynergexSandbox/43.git
 [submodule "submods/44"]
 	path = submods/44
-	url = git://github.com/thepandaclause/44.git
+	url = git://github.com/SynergexSandbox/44.git
 [submodule "submods/45"]
 	path = submods/45
-	url = git://github.com/thepandaclause/45.git
+	url = git://github.com/SynergexSandbox/45.git
 [submodule "submods/46"]
 	path = submods/46
-	url = git://github.com/thepandaclause/46.git
+	url = git://github.com/SynergexSandbox/46.git
 [submodule "submods/47"]
 	path = submods/47
-	url = git://github.com/thepandaclause/47.git
+	url = git://github.com/SynergexSandbox/47.git
 [submodule "submods/48"]
 	path = submods/48
-	url = git://github.com/thepandaclause/48.git
+	url = git://github.com/SynergexSandbox/48.git
 [submodule "submods/49"]
 	path = submods/49
-	url = git://github.com/thepandaclause/49.git
+	url = git://github.com/SynergexSandbox/49.git
 [submodule "submods/50"]
 	path = submods/50
-	url = git://github.com/thepandaclause/50.git
+	url = git://github.com/SynergexSandbox/50.git
 [submodule "submods/51"]
 	path = submods/51
-	url = git://github.com/thepandaclause/51.git
+	url = git://github.com/SynergexSandbox/51.git
