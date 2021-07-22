@@ -142,6 +142,3 @@
 [submodule "submods/50"]
 	path = submods/50
 	url = git://github.com/SynergexSandbox/50.git
-[submodule "submods/51"]
-	path = submods/51
-	url = git://github.com/SynergexSandbox/51.git
